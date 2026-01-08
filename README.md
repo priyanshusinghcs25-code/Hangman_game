@@ -4,6 +4,6 @@ The game is designed to allow users to guess a hidden word character by characte
 This project includes the source code, algorithm, and flowchart, which together explain the logical structure and execution flow of the Hangman game. The algorithm provides a step-by-step description of the program logic, while the flowchart visually represents the control flow using standard symbols. Through this project, fundamental concepts of C programming such as string manipulation, input handling, conditional statements, loops, and arrays are effectively demonstrated
 
 Results:
-![result 1](result 1.jpg)
-![result 2](result 2.jpg)
-![result 3](result 3.jpg)
+![result1](result1.jpg)
+![result2](result2.jpg)
+![result3](result3.jpg)
